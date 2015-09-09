@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="523.76904"
+   height="153"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="epsilon logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="253.32935"
+     inkscape:cy="57.541114"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="882"
+     inkscape:window-x="198"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.868047,-63.464492)">
+    <g
+       style="fill:#e5ff80;stroke:#777777"
+       transform="translate(513.13709,95.964492)"
+       id="SvgjsG1023">
+      <path
+         style="opacity:0.7;fill:#e5ff80"
+         inkscape:connector-curvature="0"
+         d="M 16,48 16,96 0,96 0,48 a 48,48 0 0 1 96,0 l 0,48 -16,0 0,-48 a 32,32 0 1 0 -64,0 z"
+         id="SvgjsPath1024" />
+    </g>
+    <g
+       style="fill:#e5ff80;stroke:#777777"
+       transform="translate(433.13709,95.964492)"
+       id="SvgjsG1021">
+      <path
+         style="opacity:0.7;fill:#e5ff80"
+         inkscape:connector-curvature="0"
+         d="m 0,48 a 48,48 0 0 1 96,0 48,48 0 0 1 -96,0 z m 16,0 a 32,32 0 1 0 64,0 32,32 0 1 0 -64,0 z"
+         id="SvgjsPath1022" />
+    </g>
+    <g
+       style="fill:#e5ff80;stroke:#777777"
+       transform="translate(385.13709,95.964492)"
+       id="SvgjsG1019">
+      <path
+         style="opacity:0.7;fill:#e5ff80"
+         inkscape:connector-curvature="0"
+         d="M 0,-24 0,93.254834 A 48,48 0 0 0 64,48 L 48,48 A 32,32 0 0 1 16,80 l 0,-104 a 8,8 0 0 0 -16,0 z"
+         id="SvgjsPath1020" />
+    </g>
+    <path
+       style="opacity:0.7;fill:#e5ff80;stroke:#777777"
+       d="m 353.13709,95.964492 0,47.999998 a 48,48 0 0 0 48,48 l 0,-16 a 32,32 0 0 1 -32,-32 l 0,-47.999998 z"
+       id="path3014" />
+    <path
+       style="opacity:0.7;fill:#e5ff80;stroke:#777777"
+       d="m 353.13709,71.964492 a 8,8 0 1 1 16,0 8,8 0 0 1 -16,0 z"
+       id="SvgjsPath1018" />
+    <g
+       style="fill:#e5ff80;stroke:#777777"
+       transform="translate(273.13709,95.964492)"
+       id="SvgjsG1015">
+      <path
+         style="opacity:0.7;fill:#e5ff80"
+         inkscape:connector-curvature="0"
+         d="M 80,48 0,48 A 48,48 0 0 1 81.941125,14.058875 L 70.627417,25.372583 A 32,32 0 0 0 20.287187,32 l 72.967647,0 A 48,48 0 0 1 3.6537824,66.368805 L 18.435855,60.24587 A 32,32 0 0 0 80,48 z"
+         id="SvgjsPath1016" />
+    </g>
+    <g
+       style="fill:#e5ff80;stroke:#777777"
+       transform="translate(193.13709,95.964492)"
+       id="SvgjsG1013">
+      <path
+         style="opacity:0.7;fill:#e5ff80"
+         inkscape:connector-curvature="0"
+         d="M 0,112 0,48 A 48,48 0 1 1 16,83.777088 L 16,112 A 8,8 0 0 1 0,112 z M 80,48 a 32,32 0 1 0 -64,0 32,32 0 1 0 64,0 z"
+         id="SvgjsPath1014" />
+    </g>
+    <g
+       style="fill:#7fff2a;stroke:#777777"
+       id="SvgjsG1011"
+       transform="matrix(1.2759695,0,0,1.2759695,86.506032,69.333434)">
+      <path
+         style="opacity:0.7;fill:#7fff2a"
+         inkscape:connector-curvature="0"
+         d="M 96,48 A 48,48 0 1 0 92.346218,66.368805 L 77.564145,60.24587 A 32,32 0 0 1 16,48 z M 75.712813,32 20.287187,32 a 32,32 0 0 1 55.425626,0 z"
+         id="SvgjsPath1012" />
+    </g>
+  </g>
+</svg>
